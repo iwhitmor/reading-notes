@@ -2,8 +2,8 @@
 
 ## Table of Contents
 1. [Class One](/class2.md) - Growth Mindset
-2. Class Two - 
-3. Class Three - 
+2. Class Two - Text Editors
+3. Class Three - Basic terminal cheatsheet
 
 ## **Growth Mindset**
 The growth mindset means slowing down the process of something that is challenging you and trying to learn why it is challenging, what are the obstacles in your way from achieveing your desired result, and how you can overcome those obstacles. In the long run, using the growth mindset will help you learn more about yourself, help you to see things in a positive light, and help you overcome and achieve things that you really want to!
