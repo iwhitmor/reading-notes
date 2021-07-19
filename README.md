@@ -6,4 +6,4 @@ The growth mindset means slowing down the process of something that is challengi
 2. Figure out what the end goals are, the obstacles in my way, and how to get past those obtacles to acheive the result I want
 3. Don't take the easy way out, learn from past/current mistakes and the end result will be even better
 
-###### My name is Ian Whitmore and I am an aspiring software developer and wannabe professional golfer. Check out my [LinkedIn page](https://www.linkedin.com/in/ianwhitmor/) for more information about me 👍
+###### My name is Ian Whitmore and I am an aspiring software developer ~~and wannabe professional golfer~~. Check out my [LinkedIn page](https://www.linkedin.com/in/ianwhitmor/) for more information about me 👍
