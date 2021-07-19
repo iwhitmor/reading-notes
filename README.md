@@ -1,7 +1,7 @@
 # ***Reading-Notes***
 
 ## Table of Contents
-1. [Class One](/class2.md) - Growth Mindset
+1. [Class One](/class 2.md) - Growth Mindset
 2. Class Two - 
 3. Class Three - 
 
