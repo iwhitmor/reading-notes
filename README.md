@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * Class One - Main Page see below
-* Class Two - [Text Editors](/classtwo.md)
+* Class Two - [Text Editors](/Classtwo.md)
 * Class Three - [Terminal Cheat Sheet](/class3.md)
 
 ## **Growth Mindset**
