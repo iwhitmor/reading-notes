@@ -8,7 +8,7 @@ Wireframing is important because it helps to outline what you want to do with yo
 4. Draft, don’t draw. Sketch, don’t illustrate
 5. Add some detail and get testing
 6. Start turning your wireframes into prototypes
-# HTML
+## HTML
 - Stands for Hyper Text Markup Language
 - It defines the structure of your language on webpages/apps
 - Use different elements to create how you want the page to look and act
@@ -18,7 +18,7 @@ Wireframing is important because it helps to outline what you want to do with yo
 2. The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends — in this case where the paragraph ends. Failing to add a closing tag is one of the standard beginner errors and can lead to strange results.
 The content: This is the content of the element, which in this case, is just text.
 3. The element: The opening tag, the closing tag, and the content together comprise the element.
-# Semantics
+## Semantics
 - Is the meaning of a piece of code
 - Meaning "what purpose or role does that HTML element have" (rather than "what does it look like?".)
 - There are different semantics in HTML, CSS, and Javascript
