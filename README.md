@@ -1,7 +1,7 @@
 # ***Reading-Notes***
 
 ## Table of Contents
-* [Growth Mindset](/classone.md)
+* [Growth Mindset](/growthmindset.md)
 * [Learning Markdown](/learningmarkdown.md)
 * [The Coders Computer](/Classtwo.md)
 * [Revisions and the Cloud](/revisionsandthecloud.md)
