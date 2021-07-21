@@ -1,4 +1,4 @@
-# ***Class Two***
+# The Coders Computer
 ## **Choosing a text editor**
 ### What is a text editor?
 * A text editor is something you download and install on your computer that is accessed through your web browser
