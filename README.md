@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Growth Mindset](/growthmindset.md)
 * [Learning Markdown](/learningmarkdown.md)
-* [The Coders Computer](/Classtwo.md)
+* [The Coders Computer](/thecoderscomputer.md)
 * [Revisions and the Cloud](/revisionsandthecloud.md)
 * [Structure Webpages with HTML](/structurewebpageshtml.md)
 
