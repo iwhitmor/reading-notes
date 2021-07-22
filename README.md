@@ -9,6 +9,7 @@
 * [Design web pages with CSS](/designwebpagescss.md)
 * [Dynamic web pages with JavaScript](/dynamicwebpagesjavascript.md)
 * [Programming with JavaScript](programmingwithjavascript.md)
+* [Operators and Loops](operatorsandloops.md)
 
 
 
